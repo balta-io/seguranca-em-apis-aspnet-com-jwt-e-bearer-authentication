@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qAvcpujSPq71y6kuBqcvayx+IntSBDtEOnqEvdYX/VQ=",
+  "Source": "JwtAspNetBlazor",
+  "BasePath": "_content/JwtAspNetBlazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
